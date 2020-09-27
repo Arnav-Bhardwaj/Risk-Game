@@ -1,0 +1,21 @@
+[Map]
+author=Zenji Yamada & 1C
+warn=yes
+
+[Continents]
+Farm 1=2
+Farm 2=2
+Vernon=4
+
+[Territories]
+Buildings 1,Vernon,German HQ,Buildings 2,Road,Forest,Field 1
+Buildings 2,Vernon,Buildings 1,Road,German HQ,Buildings 3,Church,Farm building,Hill 128
+Church,Vernon,Buildings 2,Hill 128,Buildings 3
+Buildings 3,Vernon,German HQ,Buildings 2,Church
+German HQ,Vernon,Buildings 1,Buildings 3,Buildings 2
+Farm building,Farm 2,Road,Buildings 2,Field 2
+Field 2,Farm 2,Farm building,Hill 128
+Hill 128,Farm 2,Buildings 2,Church,Field 2
+Field 1,Farm 1,Buildings 1,Forest
+Forest,Farm 1,Buildings 1,Field 1,Road
+Road,Farm 1,Buildings 1,Forest,Farm building,Buildings 2

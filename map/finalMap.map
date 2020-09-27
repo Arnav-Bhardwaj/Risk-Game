@@ -1,0 +1,53 @@
+[Map]
+author=default
+warn=yes
+[Continents]
+South America=2
+Asia=7
+Europe=5
+Africa=3
+Australia=2
+North America=5
+[Territories]
+Ural,Asia,Afghanistan,China,Ukraine,Siberia
+Central America,North America,Eastern United States,Western United States,Venezuala
+Western Australia,Australia,New Guinea,Eastern Australia,Indonesia
+Afghanistan,Asia,Middle East,Ural,China,Ukraine,India
+Alberta,North America,Northwest Territory,Alaska,Western United States,Ontario
+Siam,Asia,China,India,Indonesia
+Egypt,Africa,Middle East,Southern Europe,North Africa,East Africa
+North Africa,Africa,Egypt,Brazil,Southern Europe,East Africa,Congo,Western Europe
+Madagascar,Africa,South Africa,East Africa
+Scandinavia,Europe,Great Britain,Northern Europe,Ukraine,Iceland
+Iceland,Europe,Great Britain,Scandinavia,Greenland
+Middle East,Asia,Afghanistan,Egypt,Ukraine,Southern Europe,East Africa,India
+Great Britain,Europe,Northern Europe,Scandinavia,Iceland,Western Europe
+Mongolia,Asia,Irkutsk,China,Japan,Siberia,Kamchatka
+China,Asia,Ural,Afghanistan,Mongolia,Siam,Siberia,India
+Siberia,Asia,Ural,Mongolia,Irkutsk,China,Yatusk
+Brazil,South America,Argentina,North Africa,Venezuala,Peru
+Alaska,North America,Northwest Territory,Alberta,Kamchatka
+Kamchatka,Asia,Mongolia,Irkutsk,Japan,Alaska,Yatusk
+Eastern Australia,Australia,Western Australia,New Guinea
+Argentina,South America,Brazil,Peru
+Northern Europe,Europe,Great Britain,Ukraine,Southern Europe,Scandinavia,Western Europe
+Northwest Territory,North America,Alberta,Alaska,Ontario,Greenland
+Eastern United States,North America,Central America,Quebec,Western United States,Ontario
+Japan,Asia,Mongolia,Kamchatka
+Quebec,North America,Eastern United States,Ontario,Greenland
+Ukraine,Europe,Ural,Middle East,Afghanistan,Northern Europe,Southern Europe,Scandinavia
+Yatusk,Asia,Irkutsk,Siberia,Kamchatka
+Congo,Africa,South Africa,North Africa,East Africa
+Western Europe,Europe,Great Britain,Northern Europe,Southern Europe,North Africa
+India,Asia,Middle East,Afghanistan,Siam,China
+New Guinea,Australia,Western Australia,Eastern Australia,Indonesia
+Irkutsk,Asia,Mongolia,Siberia,Kamchatka,Yatusk
+South Africa,Africa,Madagascar,Congo,East Africa
+Southern Europe,Europe,Middle East,Northern Europe,Egypt,Ukraine,North Africa,Western Europe
+Western United States,North America,Central America,Alberta,Eastern United States,Ontario
+Ontario,North America,Northwest Territory,Alberta,Eastern United States,Quebec,Western United States,Greenland
+Venezuala,South America,Central America,Brazil,Peru
+Peru,South America,Argentina,Brazil,Venezuala
+Greenland,North America,Northwest Territory,Quebec,Ontario,Iceland
+East Africa,Africa,Middle East,Egypt,South Africa,North Africa,Madagascar,Congo
+Indonesia,Australia,Western Australia,New Guinea,Siam
