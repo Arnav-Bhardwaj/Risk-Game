@@ -1,0 +1,17 @@
+
+Current Phase: Reinforcement Phase
+Current PlayerStrategy: S
+Actions:
+  Number of Armies Received: 3
+  Number of Armies Received: 5
+  Number of Armies Received: 5
+  Number of Armies Received: 5
+  Number of Armies Received: 260
+  Number of Armies Received: 5
+  Number of Armies Received: 265
+  Number of Armies Received: 5
+  Number of Armies Received: 5
+  Number of Armies Received: 5
+  Number of Armies Received: 277
+  Number of Armies Received: 5
+  Number of Armies Received: 285

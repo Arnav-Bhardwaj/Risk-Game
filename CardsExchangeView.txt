@@ -1,0 +1,61 @@
+
+Current PlayerStrategy: S
+PlayerStrategy has 3 cards
+Cards owned by player:
+Card 1: Country : East Africa, Army Type : INFANTRY
+Card 2: Country : Eastern United States, Army Type : ARTILLERY
+Card 3: Country : Venezuala, Army Type : CAVALRY
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:
+Current PlayerStrategy: S
+PlayerStrategy has 0 cards
+Cards owned by player:

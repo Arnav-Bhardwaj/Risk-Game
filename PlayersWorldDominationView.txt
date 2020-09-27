@@ -1,0 +1,33 @@
+
+Percentage of the map controlled by every player:
+
+PlayerStrategy: 45			9.52%
+PlayerStrategy: 46			0.00%
+PlayerStrategy: 47			0.00%
+PlayerStrategy: 48			90.48%
+
+Continents controlled by every player:
+
+PlayerStrategy: 45 S
+			South America
+
+PlayerStrategy: 46 D
+		
+
+PlayerStrategy: 47 H
+		
+
+PlayerStrategy: 48 Y
+			Asia
+			Europe
+			Africa
+			Australia
+			North America
+
+
+Number of armies per player:
+
+PlayerStrategy 45 S has 1120 armies.
+PlayerStrategy 46 D has 0 armies.
+PlayerStrategy 47 H has 0 armies.
+PlayerStrategy 48 Y has 269312 armies.
